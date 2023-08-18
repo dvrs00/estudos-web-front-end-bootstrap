@@ -1,0 +1,51 @@
+.num-color-blue{
+    color: blue;
+}
+.text-color-green{
+    font-size: .75rem;
+    font-weight: 500;
+    color: rgb(53, 219, 53);
+}
+.num-color-gray{
+    color: gray;
+}
+.font-style-3{
+    font-weight: 700;
+    font-size: .6rem;
+}
+.pd-top-bottom{
+    padding: 0.5rem 0rem;
+}
+.pd-total{
+    padding: 1rem;
+}
+.mg-right{
+    margin-right: 0.1rem;
+}
+.gray-circle{
+    margin-right: 0.25rem;
+    height: 8px;
+    width: 8px;
+    background-color: rgb(151, 151, 151);
+    border-radius: 50%;
+} 
+.red-circle{
+    margin-right: 0.25rem;
+    height: 8px;
+    width: 8px;
+    background-color: rgb(221, 20, 20);
+    border-radius: 50%;
+}
+.green-circle{
+    margin-right: 0.25rem;
+    height: 8px;
+    width: 8px;
+    background-color: rgb(32, 138, 5);
+    border-radius: 50%;
+}
+
+
+
+
+
+
